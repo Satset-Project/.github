@@ -12,7 +12,7 @@ ENTR-H128
 | ------------ | --------------------------------------- | ------------- | --------------------------------------------------- |
 | M180D4KX2789 | Alfa Noora Fithria                      | ML            | [bluefrappucino](https://github.com/bluefrappucino) |
 | M006D4KX2042 | Putri Shanty Yanunta Yulista            | ML            | [putrishanty](https://github.com/putrishanty)       |
-| M006D4KX1771 | Made Ayu Dinda Pradnyaswari Artha Putri | ML            | [...](...)                                          |
+| M006D4KX1771 | Made Ayu Dinda Pradnyaswari Artha Putri | ML            | [ayudind](https://github.com/ayudind)               |
 | C403D4KY1195 | Kadek Yudha Ananda Putra                | CC            | [odowkun](https://github.com/odowkun)               |
 | C001D4KY0424 | Sahlan Naufal                           | CC            | [sahlannaufal](https://github.com/sahlannaufal)     |
 | A185D4KY4408 | Patrik Restu Kustranggono               | MD            | [tikorst](https://github.com/tikorst)               |
